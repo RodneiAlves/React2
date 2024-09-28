@@ -1,0 +1,25 @@
+.form{
+    background: linear-gradient(black,rgba(0, 0, 0, 0.452));
+   display: flex;
+   width: 50%;
+   height: 300px;
+   margin: 0 auto;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   box-shadow: 2px 5px 4px red;
+  border:2px solid red
+
+}
+ span{
+   color: white;
+   padding: 10px;
+   font-weight: bolder;
+   font-size: 20px;
+ }
+.form input{
+margin-bottom: 20px;
+ 
+}
+
